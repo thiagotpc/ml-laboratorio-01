@@ -1,0 +1,136 @@
+Descrição;Largura;Altura;Neighbor;Métrica;Acurácia
+Quadrado pequeno;10;10;1;Euclidiana;0,9
+Quadrado pequeno;10;10;1;Manhattan;0,9
+Quadrado pequeno;10;10;1;Minkowski;0,9
+Quadrado pequeno;10;10;3;Euclidiana;0,894
+Quadrado pequeno;10;10;3;Manhattan;0,894
+Quadrado pequeno;10;10;3;Minkowski;0,894
+Quadrado pequeno;10;10;5;Euclidiana;0,886
+Quadrado pequeno;10;10;5;Manhattan;0,886
+Quadrado pequeno;10;10;5;Minkowski;0,886
+Valores Baixos;10;30;1;Euclidiana;0,921
+Valores Baixos;10;30;1;Manhattan;0,921
+Valores Baixos;10;30;1;Minkowski;0,921
+Valores Baixos;10;30;3;Euclidiana;0,908
+Valores Baixos;10;30;3;Manhattan;0,908
+Valores Baixos;10;30;3;Minkowski;0,908
+Valores Baixos;10;30;5;Euclidiana;0,902
+Valores Baixos;10;30;5;Manhattan;0,902
+Valores Baixos;10;30;5;Minkowski;0,902
+Proporcional – 1;12;15;1;Euclidiana;0,909
+Proporcional – 1;12;15;1;Manhattan;0,909
+Proporcional – 1;12;15;1;Minkowski;0,909
+Proporcional – 1;12;15;3;Euclidiana;0,907
+Proporcional – 1;12;15;3;Manhattan;0,907
+Proporcional – 1;12;15;3;Minkowski;0,907
+Proporcional – 1;12;15;5;Euclidiana;0,892
+Proporcional – 1;12;15;5;Manhattan;0,892
+Proporcional – 1;12;15;5;Minkowski;0,892
+Hipótese Inicial;20;10;1;Euclidiana;0,908
+Hipótese Inicial;20;10;1;Manhattan;0,908
+Hipótese Inicial;20;10;1;Minkowski;0,908
+Hipótese Inicial;20;10;3;Euclidiana;0,905
+Hipótese Inicial;20;10;3;Manhattan;0,905
+Hipótese Inicial;20;10;3;Minkowski;0,905
+Hipótese Inicial;20;10;5;Euclidiana;0,901
+Hipótese Inicial;20;10;5;Manhattan;0,901
+Hipótese Inicial;20;10;5;Minkowski;0,901
+Proporcional – 2;20;25;1;Euclidiana;0,925
+Proporcional – 2;20;25;1;Manhattan;0,925
+Proporcional – 2;20;25;1;Minkowski;0,925
+Proporcional – 2;20;25;3;Euclidiana;0,928
+Proporcional – 2;20;25;3;Manhattan;0,928
+Proporcional – 2;20;25;3;Minkowski;0,928
+Proporcional – 2;20;25;5;Euclidiana;0,908
+Proporcional – 2;20;25;5;Manhattan;0,908
+Proporcional – 2;20;25;5;Minkowski;0,908
+Extremos Invertidos 1;20;70;1;Euclidiana;0,926
+Extremos Invertidos 1;20;70;1;Manhattan;0,926
+Extremos Invertidos 1;20;70;1;Minkowski;0,926
+Extremos Invertidos 1;20;70;3;Euclidiana;0,925
+Extremos Invertidos 1;20;70;3;Manhattan;0,925
+Extremos Invertidos 1;20;70;3;Minkowski;0,925
+Extremos Invertidos 1;20;70;5;Euclidiana;0,916
+Extremos Invertidos 1;20;70;5;Manhattan;0,916
+Extremos Invertidos 1;20;70;5;Minkowski;0,916
+Mais Frequente – 3;30;40;1;Euclidiana;0,922
+Mais Frequente – 3;30;40;1;Manhattan;0,922
+Mais Frequente – 3;30;40;1;Minkowski;0,922
+Mais Frequente – 3;30;40;3;Euclidiana;0,909
+Mais Frequente – 3;30;40;3;Manhattan;0,909
+Mais Frequente – 3;30;40;3;Minkowski;0,909
+Mais Frequente – 3;30;40;5;Euclidiana;0,908
+Mais Frequente – 3;30;40;5;Manhattan;0,908
+Mais Frequente – 3;30;40;5;Minkowski;0,908
+Proporcional – 3;32;40;1;Euclidiana;0,927
+Proporcional – 3;32;40;1;Manhattan;0,927
+Proporcional – 3;32;40;1;Minkowski;0,927
+Proporcional – 3;32;40;3;Euclidiana;0,913
+Proporcional – 3;32;40;3;Manhattan;0,913
+Proporcional – 3;32;40;3;Minkowski;0,913
+Proporcional – 3;32;40;5;Euclidiana;0,905
+Proporcional – 3;32;40;5;Manhattan;0,905
+Proporcional – 3;32;40;5;Minkowski;0,905
+Mediana;36;46;1;Euclidiana;0,923
+Mediana;36;46;1;Manhattan;0,923
+Mediana;36;46;1;Minkowski;0,923
+Mediana;36;46;3;Euclidiana;0,919
+Mediana;36;46;3;Manhattan;0,919
+Mediana;36;46;3;Minkowski;0,919
+Mediana;36;46;5;Euclidiana;0,912
+Mediana;36;46;5;Manhattan;0,912
+Mediana;36;46;5;Minkowski;0,912
+Média;37;47;1;Euclidiana;0,93
+Média;37;47;1;Manhattan;0,93
+Média;37;47;1;Minkowski;0,93
+Média;37;47;3;Euclidiana;0,920
+Média;37;47;3;Manhattan;0,920
+Média;37;47;3;Minkowski;0,920
+Média;37;47;5;Euclidiana;0,914
+Média;37;47;5;Manhattan;0,914
+Média;37;47;5;Minkowski;0,914
+Mais Frequente – 1;40;50;1;Euclidiana;0,924
+Mais Frequente – 1;40;50;1;Manhattan;0,924
+Mais Frequente – 1;40;50;1;Minkowski;0,924
+Mais Frequente – 1;40;50;3;Euclidiana;0,924
+Mais Frequente – 1;40;50;3;Manhattan;0,924
+Mais Frequente – 1;40;50;3;Minkowski;0,924
+Mais Frequente – 1;40;50;5;Euclidiana;0,906
+Mais Frequente – 1;40;50;5;Manhattan;0,906
+Mais Frequente – 1;40;50;5;Minkowski;0,906
+Mais Frequente – 2;50;60;1;Euclidiana;0,93
+Mais Frequente – 2;50;60;1;Manhattan;0,93
+Mais Frequente – 2;50;60;1;Minkowski;0,93
+Mais Frequente – 2;50;60;3;Euclidiana;0,919
+Mais Frequente – 2;50;60;3;Manhattan;0,919
+Mais Frequente – 2;50;60;3;Minkowski;0,919
+Mais Frequente – 2;50;60;5;Euclidiana;0,916
+Mais Frequente – 2;50;60;5;Manhattan;0,916
+Mais Frequente – 2;50;60;5;Minkowski;0,916
+Extremos Invertidos 2;60;30;1;Euclidiana;0,925
+Extremos Invertidos 2;60;30;1;Manhattan;0,925
+Extremos Invertidos 2;60;30;1;Minkowski;0,925
+Extremos Invertidos 2;60;30;3;Euclidiana;0,918
+Extremos Invertidos 2;60;30;3;Manhattan;0,918
+Extremos Invertidos 2;60;30;3;Minkowski;0,918
+Extremos Invertidos 2;60;30;5;Euclidiana;0,914
+Extremos Invertidos 2;60;30;5;Manhattan;0,914
+Extremos Invertidos 2;60;30;5;Minkowski;0,914
+Mais Frequente – 4;60;70;1;Euclidiana;0,926
+Mais Frequente – 4;60;70;1;Manhattan;0,926
+Mais Frequente – 4;60;70;1;Minkowski;0,926
+Mais Frequente – 4;60;70;3;Euclidiana;0,924
+Mais Frequente – 4;60;70;3;Manhattan;0,924
+Mais Frequente – 4;60;70;3;Minkowski;0,924
+Mais Frequente – 4;60;70;5;Euclidiana;0,916
+Mais Frequente – 4;60;70;5;Manhattan;0,916
+Mais Frequente – 4;60;70;5;Minkowski;0,916
+Valor Máximo;99;81;1;Euclidiana;0,928
+Valor Máximo;99;81;1;Manhattan;0,928
+Valor Máximo;99;81;1;Minkowski;0,928
+Valor Máximo;99;81;3;Euclidiana;0,919
+Valor Máximo;99;81;3;Manhattan;0,919
+Valor Máximo;99;81;3;Minkowski;0,919
+Valor Máximo;99;81;5;Euclidiana;0,915
+Valor Máximo;99;81;5;Manhattan;0,915
+Valor Máximo;99;81;5;Minkowski;0,915
