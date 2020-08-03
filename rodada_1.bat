@@ -1,0 +1,15 @@
+py knn.py features_10x10.txt 3 EU
+py knn.py features_10x30.txt 3 EU
+py knn.py features_12x15.txt 3 EU
+py knn.py features_20x10.txt 3 EU
+py knn.py features_20x25.txt 3 EU
+py knn.py features_20x70.txt 3 EU
+py knn.py features_30x40.txt 3 EU
+py knn.py features_32x40.txt 3 EU
+py knn.py features_36x46.txt 3 EU
+py knn.py features_37x47.txt 3 EU
+py knn.py features_40x50.txt 3 EU
+py knn.py features_50x60.txt 3 EU
+py knn.py features_60x30.txt 3 EU
+py knn.py features_60x70.txt 3 EU
+py knn.py features_99x81.txt 3 EU
